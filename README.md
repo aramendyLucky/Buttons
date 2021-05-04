@@ -1,2 +1,2 @@
 # Buttons
-Creacion de butones-una variante de muchas maneras que hay.
+Creacion de Buttons/botones-una variante de muchas maneras que hay.

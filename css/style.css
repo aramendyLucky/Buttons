@@ -28,6 +28,7 @@ button::after,button::before{
 .draw{
   -webkit-transition:color .25s;
   transition:color .25s;
+  border-radius: 25px;
 }
 .draw::after,.draw::before{
   border:2px solid transparent;
